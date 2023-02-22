@@ -12,5 +12,6 @@
 * [終端機操作](zhong-duan-ji-cao-zuo/README.md)
   * [tmux](zhong-duan-ji-cao-zuo/tmux/README.md)
     * [tmux 滑鼠控制](zhong-duan-ji-cao-zuo/tmux/tmux-hua-shu-kong-zhi.md)
+  * [Page 2](zhong-duan-ji-cao-zuo/page-2.md)
   * [當前程序 -> 背景執行/還原](zhong-duan-ji-cao-zuo/dang-qian-cheng-xu-bei-jing-zhi-hang-huan-yuan.md)
 * [嗡嗡的隨手筆記 (整理完放此)](https://www.wongwonggoods.com/)
