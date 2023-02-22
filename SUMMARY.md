@@ -7,6 +7,8 @@
 * [C++](c++/README.md)
   * [Page 1](c++/page-1.md)
 * [Python](python/README.md)
+  * [python 安裝](python/python-an-zhuang.md)
+  * [python 3.9 on ubuntu](python/python-3.9-on-ubuntu.md)
   * [python 環境管理](python/page-2.md)
     * [內建 venv (前身 virtualenv)](python/page-4.md)
     * [pyenv](python/python-huan-jing-guan-li/pyenv.md)
