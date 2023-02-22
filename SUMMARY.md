@@ -11,4 +11,4 @@
   * [Page 4](python/page-4.md)
 * [終端機操作](zhong-duan-ji-cao-zuo/README.md)
   * [當前程序 -> 背景執行/還原](zhong-duan-ji-cao-zuo/dang-qian-cheng-xu-bei-jing-zhi-hang-huan-yuan.md)
-* [嗡嗡的隨手筆記 (個人部落格)](https://www.wongwonggoods.com/)
+* [嗡嗡的隨手筆記 (整理完放此)](https://www.wongwonggoods.com/)
