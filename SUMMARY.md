@@ -5,7 +5,7 @@
   * [Page 5](bash/page-5.md)
   * [Page 3](bash/page-3.md)
 * [C++](c++/README.md)
-  * [Page 1](c++/page-1.md)
+  * [std::lock\_guard](c++/std-lock\_guard.md)
 * [Python](python/README.md)
   * [python 安裝](python/python-an-zhuang.md)
   * [python 3.9 on ubuntu](python/python-3.9-on-ubuntu.md)
