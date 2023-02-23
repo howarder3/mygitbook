@@ -20,6 +20,7 @@
     * [docker](python/python-huan-jing-guan-li/docker.md)
   * [螢幕自動控制開發](python/ying-mu-zi-dong-kong-zhi-kai-fa/README.md)
     * [tesseract](python/ying-mu-zi-dong-kong-zhi-kai-fa/tesseract.md)
+* [Git](git.md)
 * [終端機操作](zhong-duan-ji-cao-zuo/README.md)
   * [tmux](zhong-duan-ji-cao-zuo/tmux/README.md)
     * [tmux 滑鼠控制](zhong-duan-ji-cao-zuo/tmux/tmux-hua-shu-kong-zhi.md)
