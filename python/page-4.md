@@ -25,5 +25,5 @@ source activate venv python not working
 ll ./myenvs/python39/lib/python3.9
 ```
 
-
+* [https://ithelp.ithome.com.tw/articles/10199980](https://ithelp.ithome.com.tw/articles/10199980)
 
