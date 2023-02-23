@@ -41,6 +41,7 @@
     * [三角分析](jia-mi-huo-bi/he-yue/san-jiao-fen-xi.md)
     * [雙向持倉](jia-mi-huo-bi/he-yue/shuang-xiang-chi-cang.md)
     * [U本位 / 幣本位](jia-mi-huo-bi/he-yue/u-ben-wei-bi-ben-wei.md)
+    * [斐波那契回調線](jia-mi-huo-bi/he-yue/fei-bo-na-qi-hui-diao-xian.md)
     * [箱體空間](jia-mi-huo-bi/he-yue/xiang-ti-kong-jian.md)
 * [省思&雜記](sheng-si-za-ji/README.md)
   * [財富自由目標參考](sheng-si-za-ji/cai-fu-zi-you-mu-biao-can-kao.md)
