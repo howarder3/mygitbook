@@ -42,6 +42,7 @@
     * [左側 / 右側交易](jia-mi-huo-bi/ji-shu-fen-xi/zuo-ce-you-ce-jiao-yi.md)
   * [技術分析](jia-mi-huo-bi/ji-shu-fen-xi/README.md)
     * [看漲吞沒 / 看跌吞沒](jia-mi-huo-bi/ji-shu-fen-xi/kan-zhang-tun-mei-kan-die-tun-mei.md)
+    * [頭肩頂 / 頭肩底](jia-mi-huo-bi/ji-shu-fen-xi/tou-jian-ding-tou-jian-di.md)
     * [道氏理論 (123法則)](jia-mi-huo-bi/ji-shu-fen-xi/dao-shi-li-lun-123-fa-ze.md)
     * [SVP](jia-mi-huo-bi/ji-shu-fen-xi/svp.md)
     * [上升通道 / 上升趨勢](jia-mi-huo-bi/ji-shu-fen-xi/shang-sheng-tong-dao-shang-sheng-qu-shi.md)
