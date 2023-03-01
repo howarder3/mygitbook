@@ -12,5 +12,8 @@
 
 基本上是我個人使用，比較完整的整理後，會再丟去我的個人部落格。
 
+* [嗡嗡的草稿倉庫](https://howarder3.gitbook.io/wongwongsamplecode/)：[https://howarder3.gitbook.io/wongwongsamplecode/](https://howarder3.gitbook.io/wongwongsamplecode/)
+  * 撰寫草稿使用
 * [嗡嗡的隨手筆記](https://www.wongwonggoods.com/)：[https://www.wongwonggoods.com/](https://www.wongwonggoods.com/)
+  * 筆記整理完後會放這
 

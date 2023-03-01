@@ -63,7 +63,7 @@
     * [頂背離 / 底背離](jia-mi-huo-bi/ji-shu-fen-xi/ding-bei-li-di-bei-li.md)
     * [三角分析](jia-mi-huo-bi/he-yue/san-jiao-fen-xi.md)
     * [斐波那契回調(反彈)線](jia-mi-huo-bi/he-yue/fei-bo-na-qi-hui-diao-xian.md)
-    * [箱體空間](jia-mi-huo-bi/he-yue/xiang-ti-kong-jian.md)
+    * [箱型理論](jia-mi-huo-bi/ji-shu-fen-xi/xiang-xing-li-lun.md)
     * [MISC](jia-mi-huo-bi/ji-shu-fen-xi/ema50-200.md)
   * [避險](jia-mi-huo-bi/bi-xian/README.md)
     * [倉位控制](jia-mi-huo-bi/bi-xian/cang-wei-kong-zhi.md)
