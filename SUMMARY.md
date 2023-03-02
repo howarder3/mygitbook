@@ -32,6 +32,7 @@
       * [search word in tmux](zhong-duan-ji-cao-zuo/page-2.md)
     * [當前程序 -> 背景執行/還原](zhong-duan-ji-cao-zuo/dang-qian-cheng-xu-bei-jing-zhi-hang-huan-yuan.md)
 * [C++](c++/README.md)
+  * [C++ explicit](c++/c++-explicit.md)
   * [byte alignment continuous](c++/byte-alignment-continuous.md)
   * [serialize / deserialize](c++/serialize-deserialize.md)
   * [C++ 條件處理](c++/c++-tiao-jian-chu-li/README.md)
