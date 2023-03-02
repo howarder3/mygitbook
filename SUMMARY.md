@@ -155,7 +155,7 @@
     * [python 網頁爬蟲 / 自動搶票](python/python-misc/python-wang-ye-pa-chong-zi-dong-qiang-piao.md)
     * [no module named](python/python-misc/no-module-named.md)
     * [\_\_init\_\_.py](python/python-misc/\_\_init\_\_.py.md)
-    * [time](python/python-misc/time.md)
+    * [time](python/time.md)
 * [Machine Learning (ML)](machine-learning-ml/README.md)
   * [MAE, MSE, RMSE](machine-learning-ml/mae-mse-rmse.md)
   * [quantize model](machine-learning-ml/quantize-model.md)
