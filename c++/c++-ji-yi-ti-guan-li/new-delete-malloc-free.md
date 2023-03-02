@@ -1,4 +1,4 @@
-# new delete malloc free
+# new, delete, malloc, free
 
 * new delete malloc free
 * [http://nkeys.logdown.com/posts/472329-c-memory-configuration](http://nkeys.logdown.com/posts/472329-c-memory-configuration)

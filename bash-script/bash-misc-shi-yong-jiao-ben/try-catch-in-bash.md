@@ -1,0 +1,3 @@
+# try catch in bash
+
+* [https://stackoverflow.com/questions/22009364/is-there-a-try-catch-command-in-bash](https://stackoverflow.com/questions/22009364/is-there-a-try-catch-command-in-bash)
