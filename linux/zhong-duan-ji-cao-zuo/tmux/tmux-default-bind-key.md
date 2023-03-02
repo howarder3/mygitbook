@@ -1,0 +1,2 @@
+# tmux default bind-key
+
