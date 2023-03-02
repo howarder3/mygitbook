@@ -6,6 +6,8 @@ description: 內建前身
 
 要先想辦法安裝 python 你要的版本至 base
 
+> 沒有 base 的環境，也沒辦法開指定 python 版本的 venv
+
 
 
 開啟 venv
