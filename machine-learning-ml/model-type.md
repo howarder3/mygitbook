@@ -1,0 +1,3 @@
+# model type
+
+onnx, pb...
