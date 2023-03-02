@@ -1,0 +1,2 @@
+# Python derived class example
+
