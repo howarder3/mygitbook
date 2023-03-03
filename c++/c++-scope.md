@@ -18,3 +18,6 @@ int main(){
 }
 
 ```
+
+* Unnamed namespaces
+* [https://tw-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/scoping.html](https://tw-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/scoping.html)

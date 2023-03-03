@@ -3,6 +3,8 @@
 * 只是 set
 * std::memset
 * [https://en.cppreference.com/w/cpp/string/byte/memset](https://en.cppreference.com/w/cpp/string/byte/memset)
+* c++ memset
+* [https://www.runoob.com/cprogramming/c-function-memset.html](https://www.runoob.com/cprogramming/c-function-memset.html)
 
 
 
