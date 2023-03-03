@@ -1,0 +1,2 @@
+# C++ struct / class
+
