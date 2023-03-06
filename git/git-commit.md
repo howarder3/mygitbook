@@ -1,4 +1,6 @@
-# git commit amend
+# git commit
 
-* git commit amend
+* git commit -m
+*
+* git commit --amend
 * [https://ithelp.ithome.com.tw/articles/10279580](https://ithelp.ithome.com.tw/articles/10279580)
