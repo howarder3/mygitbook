@@ -194,6 +194,8 @@
   * [float16](machine-learning-ml/float16.md)
 * [Git](git/README.md)
   * [git rename (git mv)](git/git-rename-git-mv.md)
+  * [Git add](git/git-add.md)
+  * [Git checkout](git/git-checkout.md)
   * [git commit amend](git/git-commit-amend.md)
   * [git push](git/git-push.md)
   * [git MISC](git/git-misc.md)
