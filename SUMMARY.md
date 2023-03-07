@@ -18,6 +18,7 @@
     * [bash return value](bash-script/bash-misc-shi-yong-jiao-ben/bash-return-value.md)
     * [try catch in bash](bash-script/bash-misc-shi-yong-jiao-ben/try-catch-in-bash.md)
 * [Linux](linux/README.md)
+  * [terminal 顏色輸出](linux/terminal-yan-se-shu-chu.md)
   * [Linux errno](linux/linux-errno.md)
   * [2>&1](linux/2-greater-than-and-1.md)
   * [auto complete](linux/auto-complete.md)
