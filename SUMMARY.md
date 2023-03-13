@@ -2,7 +2,6 @@
 
 * [✏ 嗡嗡的草稿倉庫](README.md)
 * [Bash Script](bash/README.md)
-  * [bash return value](bash-script/bash-return-value.md)
   * [bash for](bash/page-3.md)
   * [bash if](bash/page-5.md)
   * [do command in bash string](bash-script/do-command-in-bash-string.md)
