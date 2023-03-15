@@ -53,6 +53,8 @@
     * [C++ unlink](c++/c++-dang-an-du-qu/c++-unlink.md)
     * [dirent.h](c++/c++-dang-an-du-qu/dirent.h.md)
     * [c++ get file list](c++/c++-dang-an-du-qu/c++-get-file-list.md)
+  * [C++ const](c++/c++-const.md)
+  * [C++ const reference](c++/c++-const-reference.md)
   * [C++ container](c++/c++-container/README.md)
     * [unordered\_map](c++/c++-container/unordered\_map.md)
     * [set, map, vector](c++/c++-container/set-map-vector.md)
