@@ -40,4 +40,7 @@ ll ./myenvs/python39/lib/python3.9
 * [https://stackoverflow.com/questions/24123150/pyvenv-3-4-returned-non-zero-exit-status-1](https://stackoverflow.com/questions/24123150/pyvenv-3-4-returned-non-zero-exit-status-1)
 * source activate venv alias not change
 * [https://superuser.com/questions/1281343/activate-virtualenv-using-alias](https://superuser.com/questions/1281343/activate-virtualenv-using-alias)
+*
+* [https://stackoverflow.com/questions/24123150/pyvenv-3-4-returned-non-zero-exit-status-1](https://stackoverflow.com/questions/24123150/pyvenv-3-4-returned-non-zero-exit-status-1)
+* apt-get install python3.4-dev python3.4-venv
 
