@@ -7,7 +7,6 @@
   * [set](bash-script/set.md)
   * [Bash 檔案處理](bash-script/bash-dang-an-chu-li/README.md)
     * [ls show full path](bash-script/bash-dang-an-chu-li/ls-show-full-path.md)
-    * [check file exist](bash-script/bash-dang-an-chu-li/check-file-exist.md)
     * [show file last modified time](bash-script/bash-dang-an-chu-li/show-file-last-modified-time.md)
     * [rename by adding prefix](bash-script/bash-dang-an-chu-li/rename-by-adding-prefix.md)
     * [rename by remove prefix](bash-script/bash-dang-an-chu-li/rename-by-remove-prefix.md)
